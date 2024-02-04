@@ -106,8 +106,8 @@ This is an example of how to list things you need to use the software and how to
 4. Enter your key in `.env` and all environment variables
    ```js
     excel_path="ENTER EXCEL PATH"
-    receiver="ENTER RECEIVER ssantillanaq@gmail.com"
-    sender="ENTER SENDER ssantillanaq@gmail.com"
+    receiver="ENTER RECEIVER"
+    sender="ENTER SENDER"
     temp_pwd="ENTER PASSWORD"
    ```
 
